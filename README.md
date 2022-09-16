@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anis Morsli</h1>
-<h3 align="center">I'm a Full-Stack web developer, Specializing in MERN Stack.I'm currently expanding my knowledge on the front-end development, If you're a business seeking a web presence or are looking to hire, contact me on one of my social or email</h3>
+<h3 align="center">I'm a Full-Stack web developer, Specializing in MERN Stack.I'm currently expanding my knowledge on the front-end development, If you're a business seeking a web presence or are looking to hire, contact me on one of my socials or just email me </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,3 +16,5 @@
 <a href="https://linkedin.com/in/anismorsli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anismorsli" height="30" width="40" /></a>
 <a href="https://instagram.com/anis.morsli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anis.morsli" height="30" width="40" /></a>
 </p>
+
+<a HREF="mailto:anismorsli@outlook.com">anismorsli@outlook.com</a>
