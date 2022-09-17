@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a Full-Stack web developer, Specializing in MERN Stack.<br>I'm currently expanding my knowledge on front-end development, If you're a business seeking a web presence or are looking to hire, contact me on one of my socials or just email me <a HREF="mailto:anismorsli@outlook.com">anismorsli@outlook.com</a>
+I'm a Full-Stack web developer, Specializing in MERN Stack.<br>I'm currently expanding my knowledge on front-end development, If you're a business seeking a web presence or are looking to hire, contact me on one of my socials or just email me <a HREF="mailto:anis_morsli@outlook.com
+">anis_morsli@outlook.com</a>
 
 
 ## 🌐 Socials:
